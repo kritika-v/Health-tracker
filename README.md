@@ -1,7 +1,7 @@
 # Overview
 The Health Tracker Application is a comprehensive tool developed using React that allows users to log and monitor their daily health metrics. The application supports tracking steps, calories burned, and sleep hours, providing real-time updates and data visualization to help users gain insights into their health trends.
 
-#Features
+# Features
 Daily Health Metrics Logging: Users can log their daily steps, calories burned, and sleep hours.
 Data Persistence: All operations are performed on the frontend, with data stored in local storage for persistence.
 CRUD Operations: Users can add, edit, and delete health records with real-time updates.
